@@ -1,4 +1,4 @@
-package mongoDB.M101J;
+package mongoDB.M101J.class1;
 
 import java.io.StringWriter;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package mongoDB.M101J;
+package mongoDB.M101J.class1;
 
 import spark.Request;
 import spark.Response;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package mongoDB.M101J;
+package mongoDB.M101J.class1;
 
 import freemarker.template.Configuration;
 import freemarker.template.Template;
