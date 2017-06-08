@@ -31,9 +31,11 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class SparkHomework {
-    private static final Logger logger = LoggerFactory.getLogger("logger");
+    @SuppressWarnings("unused")
+	private static final Logger logger = LoggerFactory.getLogger("logger");
 
-    public static void main(String[] args) throws UnknownHostException {
+    @SuppressWarnings("deprecation")
+	public static void main(String[] args) throws UnknownHostException {
         final Configuration configuration = new Configuration();
         configuration.setClassForTemplateLoading(
                 SparkHomework.class, "/");
